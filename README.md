@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.NET7 C# React Native**
 
-- 👨‍💻 All of my projects are available at [https://rmur99.github.io/Porto.github.io/](https://rmur99.github.io/Porto.github.io/)
+- 👨‍💻 All of my projects are available at Github + Portofolio has my work showcased ! [https://rmur99.github.io/Porto.github.io/](https://rmur99.github.io/Porto.github.io/)
 
 - 📝 I regularly write articles on DEV [https://dev.to/rmur99](https://dev.to/rmur99)
 
