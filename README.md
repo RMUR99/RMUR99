@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmur99&label=Profile%20views&color=0e75b6&style=flat" alt="rmur99" /> </p>
 
-- 🔭 I’m currently working on **Kuuki UI/KIT (SOON)**
+- 🔭 I’m currently working on **Kuuki UI KIT (SOON)**
 
 - 🌱 I’m currently learning **.NET7 C# React Native**
 
