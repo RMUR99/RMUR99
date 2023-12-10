@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Kuuki UI/KIT (SOON)**
 
-- 🌱 I’m currently learning **.NET7 C#**
+- 🌱 I’m currently learning **.NET7 C# React Native**
 
 - 👨‍💻 All of my projects are available at [https://rmur99.github.io/Porto.github.io/](https://rmur99.github.io/Porto.github.io/)
 
