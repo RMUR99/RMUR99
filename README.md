@@ -37,6 +37,11 @@
 
 
 [![RM's github stats](https://github-readme-stats.vercel.app/api?username=RMUR99&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![RM's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RMUR99&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align: right">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMUR99&theme=blue-green" alt="RM's top languages">
+    </a>
+</div>
+
 
 
