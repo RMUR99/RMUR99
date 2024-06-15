@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on DEV [https://dev.to/rmur99](https://dev.to/rmur99)
 
-- 💬 Ask me about **HTML , CSS , UNITY , GAME DESIGN , CHARACTER DESIGN**
+- 💬 Ask me about **HTML , CSS , UNITY , GAME DESIGN , CHARACTER DESIGN , Machine Learning , Data Science , Prompt Engineering , Pandas , Scikit-learn , Numpy** 
 
 - 📫 How to reach me **ralmurayshid.99@gmail.com**
 
